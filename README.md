@@ -13,7 +13,7 @@ Note: currently only works for Firefox 38+
 * `--jetpack <path>` **For Development** Path to [chrome tailor jetpack][chrome-tailor-jetpack].
 * `--sdk <path>` **For Development** Path to [addon-sdk][addon-sdk].
 * `-v, --verbose` Prints additional debugging information.
-* `-p --profile= <name>` Use the specified Firefox profile.
+* `-p --profile <name>` Use the specified Firefox profile.
 
 
 ### Commands
