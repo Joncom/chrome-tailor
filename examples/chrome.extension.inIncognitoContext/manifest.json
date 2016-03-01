@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "chrome.tabs.duplicate",
-  "description": "Example for chrome.tabs.duplicate",
+  "name": "chrome.extension.inIncognitoContext",
+  "description": "Example for chrome.extension.inIncognitoContext",
   "version": "1.0.0",
   "browser_action": {
     "default_icon": "icon.png",

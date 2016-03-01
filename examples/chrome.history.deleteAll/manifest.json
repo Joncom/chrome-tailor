@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "chrome.tabs.duplicate",
-  "description": "Example for chrome.tabs.duplicate",
+  "name": "chrome.history.deleteAll",
+  "description": "Example for chrome.history.deleteAll",
   "version": "1.0.0",
   "browser_action": {
     "default_icon": "icon.png",
